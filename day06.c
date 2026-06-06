@@ -103,7 +103,6 @@ int main()
 // programe 4
 
 // WAP to find x raised to the power n without using pow() function
-// and without using long long
 
 #include <stdio.h>
 
